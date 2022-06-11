@@ -4,5 +4,5 @@ A repo containing my initial explorations of the eICU patient database - [https:
 
 
 ## Data 
-Following and adapting the steps outlined in [https://eicu-crd.mit.edu/gettingstarted/access/](https://eicu-crd.mit.edu/gettingstarted/access/),  I have loaded the eICU data into PostgreSQL database running on my local machine. 
+Following and adapting the steps outlined in [https://eicu-crd.mit.edu/tutorials/install_eicu_locally/](https://eicu-crd.mit.edu/tutorials/install_eicu_locally/),  I have loaded the eICU data into PostgreSQL database running on my local machine. 
 
